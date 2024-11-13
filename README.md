@@ -2,7 +2,7 @@
 
 Arduino元件
 
-![image]([https://github.com/percyku/pic/blob/master/IMAG0318%20%E4%B8%8B%E5%8D%881.14.33.png](https://github.com/percyku/pic/blob/master/MyTrainningSystem-pic/%E5%AF%A6%E9%AB%94.png))
+![image](https://github.com/percyku/pic/blob/master/MyTrainningSystem-pic/%E5%AF%A6%E9%AB%94.png)
 
 線路配置：
 
