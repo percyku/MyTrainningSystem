@@ -6,4 +6,4 @@ Arduino元件
 
 線路配置：
 
-![image](https://github.com/percyku/pic/blob/master/%E7%B7%9A%E8%B7%AF%E9%85%8D%E7%BD%AE.png)
+![image](https://github.com/percyku/pic/blob/master/MyTrainningSystem-pic/%E7%B7%9A%E8%B7%AF%E9%85%8D%E7%BD%AE.png)
