@@ -32,4 +32,5 @@
 # 備註
 
 - 此裝戴裝置應用在 [結合個人化健康傳播之遊戲式上肢訓練系統實作](https://ndltd.ncl.edu.tw/cgi-bin/gs32/gsweb.cgi/login?o=dnclcdr&s=id=%22105NTPT0787030%22.&searchmode=basic) 的碩士論文
-- 需搭配 [Android App](https://github.com/percyku/HandTrainSystem2) 進行連線操作
+- 需搭配 [Android App](https://github.com/percyku/HandTrainSystem2) 進行連線操作 
+- 於2017創建，因為年久失修，可能會與當前版本不相容
