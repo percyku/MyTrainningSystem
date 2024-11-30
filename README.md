@@ -4,6 +4,12 @@
 再透過 HC-06 藍芽模組與 [**Android App**](https://github.com/percyku/HandTrainSystem2)進行數據上的傳輸。
 
 
+# 開發工具與程式語言
+
+- Arduino IDE
+- C++
+
+
 # 穿戴裝置設計圖與實體
 
 - Arduino元件
